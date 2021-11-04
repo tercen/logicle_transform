@@ -28,13 +28,74 @@
       }
     ]
   },
+  "Bioconductor": {
+    "Version": null
+  },
   "Packages": {
+    "BH": {
+      "Package": "BH",
+      "Version": "1.75.0-0",
+      "Source": "Repository",
+      "Repository": "RSPM",
+      "Hash": "e4c04affc2cac20c8fec18385cd14691"
+    },
+    "Biobase": {
+      "Package": "Biobase",
+      "Version": "2.50.0",
+      "Source": "Bioconductor",
+      "Hash": "f49586e579b712b7e55253aba0c9bc21"
+    },
+    "BiocGenerics": {
+      "Package": "BiocGenerics",
+      "Version": "0.36.1",
+      "Source": "Bioconductor",
+      "Hash": "f628c51eadc74ffd838b801cd22d589a"
+    },
     "R6": {
       "Package": "R6",
       "Version": "2.5.0",
       "Source": "Repository",
       "Repository": "RSPM",
       "Hash": "b203113193e70978a696b2809525649d"
+    },
+    "RProtoBufLib": {
+      "Package": "RProtoBufLib",
+      "Version": "2.2.0",
+      "Source": "Bioconductor",
+      "Hash": "13cee985e2b760ab2c9d146fc917d57f"
+    },
+    "Rcpp": {
+      "Package": "Rcpp",
+      "Version": "1.0.7",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Hash": "dab19adae4440ae55aa8a9d238b246bb"
+    },
+    "RcppArmadillo": {
+      "Package": "RcppArmadillo",
+      "Version": "0.10.7.0.0",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Hash": "76a46d0219364e5f6c8b04a148760acf"
+    },
+    "RcppParallel": {
+      "Package": "RcppParallel",
+      "Version": "5.1.4",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Hash": "0325b5be38a02d192828027983c7b470"
+    },
+    "Rhdf5lib": {
+      "Package": "Rhdf5lib",
+      "Version": "1.12.1",
+      "Source": "Bioconductor",
+      "Hash": "7dc9be3558a910226d64a2040520dc7f"
+    },
+    "S4Vectors": {
+      "Package": "S4Vectors",
+      "Version": "0.28.1",
+      "Source": "Bioconductor",
+      "Hash": "f558c55a285751bd72af11d2bb853521"
     },
     "askpass": {
       "Package": "askpass",
@@ -64,6 +125,12 @@
       "Repository": "RSPM",
       "Hash": "e75525c55c70e5f4f78c9960a4b402e9"
     },
+    "cytolib": {
+      "Package": "cytolib",
+      "Version": "2.2.1",
+      "Source": "Bioconductor",
+      "Hash": "a845d719d5277f063a6dcea2f6d0d7d9"
+    },
     "digest": {
       "Package": "digest",
       "Version": "0.6.27",
@@ -92,6 +159,12 @@
       "Repository": "RSPM",
       "Hash": "fea074fb67fe4c25d47ad09087da847d"
     },
+    "flowCore": {
+      "Package": "flowCore",
+      "Version": "2.2.0",
+      "Source": "Bioconductor",
+      "Hash": "14bcb20d63e372d1e308244a0bb10d82"
+    },
     "generics": {
       "Package": "generics",
       "Version": "0.1.0",
@@ -119,6 +192,13 @@
       "Source": "Repository",
       "Repository": "RSPM",
       "Hash": "41287f1ac7d28a92f0a286ed507928d3"
+    },
+    "matrixStats": {
+      "Package": "matrixStats",
+      "Version": "0.61.0",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Hash": "b8e6221fc11247b12ab1b055a6f66c27"
     },
     "mtercen": {
       "Package": "mtercen",
